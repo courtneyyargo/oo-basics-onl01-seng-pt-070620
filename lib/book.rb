@@ -12,6 +12,11 @@ class Book
     @author = author 
   end 
   
+  def author
+    @author
+  end 
+  
+
 Book.new("And Then There Were None")
 
 end
