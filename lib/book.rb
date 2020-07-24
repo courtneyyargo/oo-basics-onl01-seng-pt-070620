@@ -33,7 +33,8 @@ class Book
   end 
   
   def turn_page
-end 
+    puts "Flipping the page...wow, you read fast!"
+  end 
 
 
 Book.new("And Then There Were None")
