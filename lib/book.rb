@@ -37,6 +37,4 @@ class Book
   end 
 
 
-Book.new("And Then There Were None")
-Book.turn_page
 end
